@@ -1,8 +1,8 @@
 ## Esther Revenga Villagra
 
-🛰️ Flight Dynamics Intern @ GMV
+🛰️ Flight Dynamics Engineer @ GMV
 
-🚀 📚 Aerospace Engineering Master's Student @ University of Colorado Boulder
+🚀 Aerospace Engineering MS (University of Colorado Boulder)
 
 <!--
 **EstherRevenga/EstherRevenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
